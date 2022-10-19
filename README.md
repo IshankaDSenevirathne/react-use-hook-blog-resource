@@ -1,5 +1,5 @@
-# To Do
-- [x] Initiate Vite app
-- [ ] using use hook for the first time
-- [ ] understanding functionality
-- [ ] explore use cases  
+# This Repo is being used for
+- [x] Learning React Fundementls
+- [x] Sharing knowledge
+- [x] Playground to test functionalities and use cases
+- [x] Resources for my portfolio blog articles  
